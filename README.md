@@ -2,7 +2,8 @@
 
 ## Files & Links
 
-Dataset file Link: <a href= https://github.com/daviddiasm/backend-project/tree/a6c738176c2f8ef4f0c0de88a82537956ab885da/Dataset> Dataset CSV Files </a> <br>
+Dataset file Link: <a href= https://github.com/daviddiasm/backend-project/tree/a6c738176c2f8ef4f0c0de88a82537956ab885da/Dataset> Dataset CSV Files</a><br>
+SQL Queries Link: <a href= https://github.com/daviddiasm/fraud-project/tree/36bf90d4630c1ca60b576136fdca5eb1b504fb99/SQL%20Queries> SQL Queries</a><br>
 
 ## Project Objectives
 
