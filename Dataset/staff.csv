@@ -1,0 +1,10 @@
+staff_id,staff_first_name,staff_last_name,staff_position,staff_hour_rate,shift_hours,monthly_working_days
+staff_001,Bennett,Allen,Manager,27,8,22
+staff_002,Michael,Miller,Supervisor,22,8,22
+staff_003,Willow,Young,Supervisor,22,8,22
+staff_004,Gianna,Perez,Specialist,15,8,22
+staff_005,Sofia,Thomas,Specialist,15,8,22
+staff_006,Mia,Hernandez,Specialist,15,8,22
+staff_007,Everett,Campbell,Specialist,15,8,22
+staff_008,Aaron,Thompson,Specialist,15,8,22
+staff_009,Jonathan,White,Specialist,15,8,22

@@ -1,0 +1,10 @@
+item_id,item_name,item_price,item_category
+item_001,Gaming Lap,1500,Laptop
+item_002,Gaming Desk,1000,PC
+item_003,Gaming Mini,750,MiniPC
+item_004,Work Lap,1250,Laptop
+item_005,Work Desk,850,PC
+item_006,Work Mini,650,MiniPC
+item_007,Entry Lap,850,Laptop
+item_008,Entry Desk,650,PC
+item_009,Entry Mini,500,MiniPC
